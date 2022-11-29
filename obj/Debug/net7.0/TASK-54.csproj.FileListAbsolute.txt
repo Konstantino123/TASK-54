@@ -1,0 +1,15 @@
+D:\USERDATA\Desktop\хочу стать умней\TASK-54\TASK-54\TASK-54\bin\Debug\net7.0\TASK-54.exe
+D:\USERDATA\Desktop\хочу стать умней\TASK-54\TASK-54\TASK-54\bin\Debug\net7.0\TASK-54.deps.json
+D:\USERDATA\Desktop\хочу стать умней\TASK-54\TASK-54\TASK-54\bin\Debug\net7.0\TASK-54.runtimeconfig.json
+D:\USERDATA\Desktop\хочу стать умней\TASK-54\TASK-54\TASK-54\bin\Debug\net7.0\TASK-54.dll
+D:\USERDATA\Desktop\хочу стать умней\TASK-54\TASK-54\TASK-54\bin\Debug\net7.0\TASK-54.pdb
+D:\USERDATA\Desktop\хочу стать умней\TASK-54\TASK-54\TASK-54\obj\Debug\net7.0\TASK-54.csproj.AssemblyReference.cache
+D:\USERDATA\Desktop\хочу стать умней\TASK-54\TASK-54\TASK-54\obj\Debug\net7.0\TASK-54.GeneratedMSBuildEditorConfig.editorconfig
+D:\USERDATA\Desktop\хочу стать умней\TASK-54\TASK-54\TASK-54\obj\Debug\net7.0\TASK-54.AssemblyInfoInputs.cache
+D:\USERDATA\Desktop\хочу стать умней\TASK-54\TASK-54\TASK-54\obj\Debug\net7.0\TASK-54.AssemblyInfo.cs
+D:\USERDATA\Desktop\хочу стать умней\TASK-54\TASK-54\TASK-54\obj\Debug\net7.0\TASK-54.csproj.CoreCompileInputs.cache
+D:\USERDATA\Desktop\хочу стать умней\TASK-54\TASK-54\TASK-54\obj\Debug\net7.0\TASK-54.dll
+D:\USERDATA\Desktop\хочу стать умней\TASK-54\TASK-54\TASK-54\obj\Debug\net7.0\refint\TASK-54.dll
+D:\USERDATA\Desktop\хочу стать умней\TASK-54\TASK-54\TASK-54\obj\Debug\net7.0\TASK-54.pdb
+D:\USERDATA\Desktop\хочу стать умней\TASK-54\TASK-54\TASK-54\obj\Debug\net7.0\TASK-54.genruntimeconfig.cache
+D:\USERDATA\Desktop\хочу стать умней\TASK-54\TASK-54\TASK-54\obj\Debug\net7.0\ref\TASK-54.dll
